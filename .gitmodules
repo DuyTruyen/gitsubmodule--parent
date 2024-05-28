@@ -1,0 +1,6 @@
+[submodule "chilgitsubmodule--child1"]
+	path = chilgitsubmodule--child1
+	url = https://github.com/DuyTruyen/gitsubmodule--child1.git
+[submodule "chilgitsubmodule--child2"]
+	path = chilgitsubmodule--child2
+	url = https://github.com/DuyTruyen/gitsubmodule--child2.git
